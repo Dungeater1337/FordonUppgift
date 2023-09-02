@@ -1,0 +1,15 @@
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\bin\Debug\net7.0\FordonUppgift.exe
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\bin\Debug\net7.0\FordonUppgift.deps.json
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\bin\Debug\net7.0\FordonUppgift.runtimeconfig.json
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\bin\Debug\net7.0\FordonUppgift.dll
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\bin\Debug\net7.0\FordonUppgift.pdb
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.csproj.AssemblyReference.cache
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.AssemblyInfoInputs.cache
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.AssemblyInfo.cs
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.csproj.CoreCompileInputs.cache
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.dll
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\refint\FordonUppgift.dll
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.pdb
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\FordonUppgift.genruntimeconfig.cache
+C:\Users\gregf\OneDrive\Skrivbord\Webbsida\FordonUppgift\obj\Debug\net7.0\ref\FordonUppgift.dll
